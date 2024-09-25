@@ -9,7 +9,8 @@ const sidePanelConfig = {
   side_panel: {
     default_path: 'side-panel/index.html',
   },
-  permissions: ['sidePanel'],
+  permissions: ['sidePanel', 'contextMenus', 'tabs'],
+  host_permissions: ['<all_urls>'],
 };
 
 /**
