@@ -105,11 +105,6 @@ const updateContextMenu = async () => {
     contexts: ['link'],
   });
   chrome.contextMenus.create({
-    id: 'attach-csv',
-    title: 'フォームにCSVをセット(test)',
-    contexts: ['page'],
-  });
-  chrome.contextMenus.create({
     id: 'attach-csv-root',
     title: 'フォームにCSVをセット',
     contexts: ['page'],
