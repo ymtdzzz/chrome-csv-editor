@@ -15,6 +15,23 @@ export type ThemeStorage = BaseStorage<Theme> & {
   toggle: () => Promise<void>;
 };
 
+export type CsvContentData = {
+  content: string;
+};
+
+export type CsvContent = { [key: string]: CsvContentData };
+
+export type CsvContentStorage = BaseStorage<CsvContent>;
+
+export type CsvNode = {
+  id: string;
+  name: string;
+  type: 'file' | 'folder';
+  children: CsvNode[];
+};
+
+export type CsvNodeStorage = BaseStorage<CsvNode[]>;
+
 export type StorageConfig<D = string> = {
   /**
    * Assign the {@link StorageEnum} to use.

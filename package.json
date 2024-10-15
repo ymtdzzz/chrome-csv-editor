@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react-vite",
-  "version": "0.3.2",
-  "description": "chrome extension boilerplate",
+  "name": "chrome-csv-editor",
+  "version": "0.0.1",
+  "description": "Chrome CSV Editor",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jonghakseo/chrome-extension-boilerplate-react-vite.git"
+    "url": "https://github.com/ymtdzzz/chrome-csv-editor.git"
   },
   "type": "module",
   "scripts": {

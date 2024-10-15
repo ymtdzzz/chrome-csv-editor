@@ -20,14 +20,25 @@
   },
   "dependencies": {
     "@extension/shared": "workspace:*",
-    "@extension/storage": "workspace:*"
+    "@extension/storage": "workspace:*",
+    "@mantine/core": "^7.13.0",
+    "@mantine/hooks": "^7.13.0",
+    "@tabler/icons-react": "^3.17.0",
+    "@visactor/react-vtable": "^1.7.7",
+    "@visactor/vtable": "^1.7.7",
+    "@visactor/vtable-editors": "^1.7.7",
+    "@visactor/vtable-export": "^1.7.7",
+    "buffer": "^6.0.3",
+    "csv-parse": "^5.5.6",
+    "dayjs": "^1.11.13",
+    "react-arborist": "^3.4.0"
   },
   "devDependencies": {
     "@extension/tailwindcss-config": "workspace:*",
     "@extension/tsconfig": "workspace:*",
     "@extension/vite-config": "workspace:*",
-    "postcss-load-config": "^6.0.1",
-    "cross-env": "^7.0.3"
+    "cross-env": "^7.0.3",
+    "postcss-load-config": "^6.0.1"
   },
   "postcss": {
     "plugins": {
