@@ -1,0 +1,28 @@
+Privacy Policy
+Effective Date: 2024.10.15
+
+This Privacy Policy outlines how your personal information is collected, used, and protected when you install or use Chrome CSV Editor.
+
+1. Information We Collect
+Our Chrome extension does not collect any personally identifiable information (PII). The extension uses Chrome's storage API to temporarily store data required for its functionality, such as:
+
+CSV Files: The extension allows users to download CSV files from links, edit them, and attach them to forms. These files are stored locally using Chrome's storage API for the purpose of enabling the extension's features.
+2. How We Use Your Information
+The data processed by this extension, such as the CSV files you download and edit, remains local to your device and is used solely to support the features of the extension.
+No data is sent to external servers or shared with third parties.
+3. Data Storage
+Data is stored temporarily using Chrome's storage API while the extension is in use. Once the data is no longer needed (for example, after the file is attached to a form or after you close the browser), the data is deleted.
+We do not store any data permanently or on external servers.
+4. Third-Party Services
+Our extension does not interact with or rely on any third-party services for data collection or processing.
+
+5. User Rights
+As the extension does not collect or store personal data, there are no specific user rights associated with data access, correction, or deletion.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy as needed to reflect changes to the extension's features or legal requirements. Any changes will be posted here, and the "Effective Date" will be updated accordingly.
+
+7. Contact Us
+If you have any questions or concerns regarding this Privacy Policy, please contact us at:
+Email: ymatsuda.zck@gmail.com
+
